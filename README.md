@@ -17,12 +17,12 @@
 	<img 
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpbmoura&theme=tokyonight"
         alt="logo"
-        height="220"
+        height="180"
     />
 	<img
         src="https://github-readme-stats.vercel.app/api?username=jpbmoura&show_icons=true&theme=tokyonight&count_private=true"
         alt="logo" 
-        height="220"
+        height="180"
     />
 </p>
 
