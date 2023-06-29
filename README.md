@@ -48,7 +48,6 @@
 ![Next.JS](https://img.shields.io/badge/-Next.JS-333333?style=flat&logo=next.JS)
 ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
-![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
 ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
